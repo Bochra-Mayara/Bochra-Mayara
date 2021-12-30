@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I+am+Bochra+Mayara;I%E2%80%99m+Currently+studying+On+%3A+FSS;+How+To+Reach+Me+%3A+Contact+Me+On+linkedin;Ask+Me+About+Anything%2C+I+Am+Happy+To+Help)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I+am+Bochra+Mayara;I%E2%80%99m+Currently+studying+On+%3A+FSS;+How+To+Reach+Me+%3A+Contact+Me+On+linkedin;Ask+Me+About+Anything%2C+I+Am+Happy+To+Help)
 
 <p align="center">
   <a href="https://t.me/Bochra-Mayara"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
