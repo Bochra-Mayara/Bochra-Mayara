@@ -14,7 +14,7 @@
 I'm Bochra from tunisian . I really enjoy learning new  languages and frameworks .  I Passionate about learning a lot things in domaine  IT
 <h3 align="center">A passionate developement mobile/web and IOT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bochra-mayara&label=Profile%20views&color=0e75b6&style=flat" alt="bochra-mayara" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bochra-mayara" alt="bochra-mayara" /></a> </p>
 
