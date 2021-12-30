@@ -1,10 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I+am+Kisara+Pesanjith+Perera;I%E2%80%99m+Currently+Working+On+%3A+MaX+Bots;+How+To+Reach+Me+%3A+Contact+Me+On+Telegram;Ask+Me+About+Anything%2C+I+Am+Happy+To+Help)](https://github.com/Bochra-Mayara)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I+am+Bochra+Mayara;I%E2%80%99m+Currently+styding+On+FSS;+How+To+Reach+Me+%3A+Contact+Me+On+linkedin.com/in/bochra-mayara-
+317a56215;Ask+Me+About+Anything%2C+I+Am+Happy+To+Help)](https://github.com/Bochra-Mayara)
 
 <p align="center">
-  <a href="https://t.me/Bochra-Mayara"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+  <a href="https://t.me/"Bochra-Mayara"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
     </p>
 
 <h2> Hey I Am Bochra Mayara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bochra-Mayara&theme=nightowl&show_icons=true)
 ### Hi there 👋, Bochra Mayara
 #### developement web/mobile and IOT
